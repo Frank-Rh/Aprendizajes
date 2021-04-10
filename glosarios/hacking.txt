@@ -1,6 +1,6 @@
 Hacker: hacker es una persona con un conocimiento importante de sistemas operativos, redes, protocolos, lenguajes de programacion, etc. con lo que se podria resumir tener un dominio de la seguridad en redes.
 
-ADMINISTRADOR, sysop, root :Es la persona que se encarga del sistema. Se suele denominar rOOt y es la persona que tiene el poder absoluto sobre la maquina. Tiene un UID=0
+ADMINISTRADOR || sysop || root :Es la persona que se encarga del sistema. Se suele denominar rOOt y es la persona que tiene el poder absoluto sobre la maquina. Tiene un UID=0
 
 AGUJERO || bug || hole : Es und efecto en el software o hardware que como su nombre indica deja agujeros para los hackers
 
