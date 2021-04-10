@@ -1,0 +1,71 @@
+Hacker: hacker es una persona con un conocimiento importante de sistemas operativos, redes, protocolos, lenguajes de programacion, etc. con lo que se podria resumir tener un dominio de la seguridad en redes.
+
+ADMINISTRADOR, sysop, root :Es la persona que se encarga del sistema. Se suele denominar rOOt y es la persona que tiene el poder absoluto sobre la maquina. Tiene un UID=0
+
+AGUJERO || bug || hole : Es und efecto en el software o hardware que como su nombre indica deja agujeros para los hackers
+
+AIX: Sistema operativo de IBM 
+
+BUGS y EXPLOITS: Los bugs son fallos en el software o en el hardware y que usan los hackers para entrar en sistemas y un exploit es un programa que aprovecha el agujero dejado por el bug.
+
+BOMBA LOGICA: Codigo que ejecuta una particular manera de ataque cuando una determinada condicion se produce. 
+Por ejemplo una bomba logica puede formatear el disco duro un dia determinado, pero a diferencia de un virus la bomba logica no se replica.
+
+BACKDOOR :Puerta trasera. Mecanismo que tiene o que se debe crear en un software para acceder de manera indebida
+
+BBS (Bulletin Board System): Es una maquina a la que se accede a traves de la linea telefonica y donde se dejan mensajes y software
+
+BOXING: Uso de aparatos electronicos o electricos (Boxes) para hacer phreaking. Esto no es hacking sino phreaking xD
+
+BOUNCER: Tecnica que consiste en usar una maquina de puente y que consigue que telneteando al puerto xxxx de la maquina “bouncerada” te redireccione la salida a un puerto determinado de otra maquina.
+
+Caballos de Troya (troyanos):Programa que se queda residente en un sistema y que ha sido desarrollado para obtener algun tipo de informacion. 
+Por ejemplo seria un caballo de troya un programa que al ejecutarlo envie el fichero de /etc/passwd a una determinada IP
+
+COPS: Programa de seguridad 
+
+CERT (Computer Emergency Response Team): Bien, como su nombre indica es una gente que se dedica de trabajar en seguridad pero que en su esfuerzo por informar de bugs nuevos xD
+
+CLOACKER: Programa que borra los logs (huellas) en un sistema tambien se les puede llamar zappers
+
+Crackeador de PASSWORDS:Programa utilizado para sacar los password encriptados de los archivos de passwords
+
+DAEMON: Proceso en background en los sistemas Unix, es decir un proceso que esta ejecutandose en segundo plano
+
+EXPLOIT: Es el metodo correcto de entrar en un sistema
+
+FIREWALL || cortafuego: Es un sistema avanzado de seguridad que impide a personas no autorizada el acceso al sistema mediante el filtrado de los paquetes dependiendo de la IP de origen, en otras palabras una molestia y grande XD 
+
+GUSANO: Son programas que se reproducen ellos mismos copiandose una y otra vez de sistema a sistema y que usa recursos de los sistemas atacados, esto es util al momento de hacer DDoS.
+
+HP/UX: Sistema operativo de HP
+
+Ingenieria Social: Obtencion de informacion por medios ajenos a la informatica, es algo que en lo personal es muy divertido y aparte entretenido 10/10 xd 
+
+IRIX: Sistema operativo
+
+ISP (Internet Services Provider): En español es provedor de servicios de Internet xD
+
+KEY || Llave: Se puede traducir por clave de acceso a un software o sistema
+
+KERBEROS: Sistema de seguridad en el que los login y los passwords van encriptados
+
+LOGIN : Para entrar en un sistema por telnet se necesita siempre un login (nombre) y un password (clave)
+
+NUKEAR: Molestar a gente debido a bugs del sistema operativo o de los protocolos
+
+PASSWORD :Contraseña que trabaja con un login, tambien se le llama asi al fichero de UNIX /etc/passwd que contiene los passwords del sistema
+
+PPP: Point-to-point protocol
+
+PORT SCANNER: Programa que te indica que puertos de una maquina estan abiertos
+ t
+ROOT || administrador || sysop: Cosa que tiene control total sobre el sistema y cuyo UID es 0. 
+
+TCP/IP: Arquitectura de red con un conjunto de protocolos. Es la que se suele usar en Internet
+
+TRACEAR: Seguir pistas a traves de la red a una informacion o de una persona
+
+UDP: Protocolo de comunicacion que a diferencia del TCP no es orientado a conexion
+
+VIRUS: Es un programa que se reproduce a si mismo y que muy posiblemente que atacara a otros programas. Crea copias de si mismo y suele dañar  datos, cambiarlos o disminuir la capacidad de tu sistema disminuyendo la memoria util o el espacio libre. 
