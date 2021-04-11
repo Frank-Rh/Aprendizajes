@@ -127,3 +127,5 @@
     <td>who remoto y da info sobre la carga de la maquina </td>
   </tr>
 </table>
+
+Estos son algunos de los puertos, son los que mas me llamaron la atencion xD
