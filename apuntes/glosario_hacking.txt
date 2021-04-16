@@ -59,7 +59,7 @@ PASSWORD :Contraseña que trabaja con un login, tambien se le llama asi al fiche
 PPP: Point-to-point protocol
 
 PORT SCANNER: Programa que te indica que puertos de una maquina estan abiertos
- t
+ 
 ROOT || administrador || sysop: Cosa que tiene control total sobre el sistema y cuyo UID es 0. 
 
 TCP/IP: Arquitectura de red con un conjunto de protocolos. Es la que se suele usar en Internet
