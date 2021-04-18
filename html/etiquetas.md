@@ -90,4 +90,81 @@
     <td>Lo mismo que <b>pre</b> pero en letra pequeña</td>
     <td>Si</td>
   </tr>
+  <tr>
+    <td>blockquote</td>
+    <td>Destacar una cita textual</td>
+    <td>Si</td>
+  </tr>
+  <tr>
+    <td>sup</td>
+    <td>Indice</td>
+    <td>Si</td>
+  </tr>
+  <tr>
+    <td>sub</td>
+    <td>Subindice</td>
+    <td>Si</td>
+  </tr>
+  <tr>
+    <td>< !--</td>
+    <td>Comentario</td>
+    <td>Abrir</td>
+  </tr>
+  <tr>
+    <td>--></td>
+    <td>Comentario</td>
+    <td>Cerrar</td>
+  </tr>
 </table>
+<br>
+<hr>
+<hr>
+
+# Links
+
+## Los links son algo diferente a las etiquetas normales, las anteriore puedens usarse como quieran sin la necesidad de meter otra cosa a la etiqueta (anque se puede)
+<hr>
+
+### ay distinto tipos de links, unos que llevan a una pagina y otros que llevan a una parte del mismo documento
+
+### Los links tienen la siguiente estructura:
+```html
+<a href="enlace">Texto que aparece</a>
+```
+### Para poner un link a una parte del mismo elemento seria asi:
+```html
+<a href="#marca">Texto que aparece</a>
+```
+### Para algo mas preciso seria algo asi: 
+```html
+<a name="marca">Texto que aparece</a>
+```
+### Para un documento distinto pero que no es de otro dominio seria algo asi: 
+```html
+<a herf="./menu.html">Menu</a>
+```
+
+<hr>
+<hr>
+
+# Imagenes  
+
+## La etiqueta de imagen es parecida a la de link
+
+### La etiqueta que se usa es la siguinte 
+```html
+<img src="">
+```
+### Esta etiqueta tiene varias elementos que funcionaran para distintas cosas xD 
+
+## Alt
+### Con esto se le da una descripcion a la imagen, si la imagen no llega a encontrarse el texto que esta adentro saldra en lujar de la imagen, se usa asi: 
+```html
+<img src="imagen.png" alt="imagen">
+```
+
+## Aling
+### Esto es para poner una alineacion a titular de la imagen(si ay) este tiene 3 opciones top, middle y buttom cada uno es una posicion diferente y su uso es: 
+```html
+<img src="imagen.png" aling=top>Una imagen <!-- Una imagen es el titular -->  
+```
