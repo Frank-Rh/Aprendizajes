@@ -28,7 +28,7 @@ Las variantes de tipo string es una variante con valor en texto,
 el texto debe que ir dentro de comillas dobles o simples.
 Un ejemplo seria este:
 ```js
-var string = "String";
+var stringn = "String";
 ```
 en en cuneta que puedes hacer un listado o cadena
 ```js
