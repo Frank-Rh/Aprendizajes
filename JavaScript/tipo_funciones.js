@@ -5,7 +5,6 @@ otras que solo pueden ser llamadas una vez y asi
 */
 
 // Funcion normal
-
 function Suma(a, b){ // se declara la funcion con un nombre, (sin separaciones y si son dos palabras juntas de pone primeraSegunda) y los parametros que resibira
     return a + b // la accion que hara la funcion
 }
@@ -73,4 +72,3 @@ const cosas = {
 
 cosa.add("yo", "tu", "el")
 cosa.saludar(1)
-
